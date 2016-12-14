@@ -29,8 +29,8 @@ namespace ReleaseBulkUpdate
             ////        var deployUser = env["variables"]["deployUser"];
             ////        if (deployPassword != null && deployUser != null)
             ////        {
-            ////            deployPassword["value"] = "f4totGPJyLskbs_";
-            ////            deployUser["value"] = "sandvik\\biztalkreleaseuser";
+            ////            deployPassword["value"] = "xxx";
+            ////            deployUser["value"] = "xxx";
             ////        }
 
             ////        // update scriptpaths in all tasks to n:
