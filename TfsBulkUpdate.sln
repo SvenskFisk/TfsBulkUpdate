@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildBulkUpdate", "BuildBulkUpdate\BuildBulkUpdate.csproj", "{F21AA05C-1BB0-44D8-A84E-410273F397B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseBulkUpdate", "ReleaseBulkUpdate\ReleaseBulkUpdate.csproj", "{823364FD-C5A8-4EC3-9367-6647D5FF2388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21AA05C-1BB0-44D8-A84E-410273F397B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21AA05C-1BB0-44D8-A84E-410273F397B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21AA05C-1BB0-44D8-A84E-410273F397B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21AA05C-1BB0-44D8-A84E-410273F397B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823364FD-C5A8-4EC3-9367-6647D5FF2388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823364FD-C5A8-4EC3-9367-6647D5FF2388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823364FD-C5A8-4EC3-9367-6647D5FF2388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823364FD-C5A8-4EC3-9367-6647D5FF2388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.sandvik.com:444/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BuildBulkUpdate\\BuildBulkUpdate.csproj
+		SccProjectName1 = BuildBulkUpdate
+		SccLocalPath1 = BuildBulkUpdate
+		SccProjectUniqueName2 = ReleaseBulkUpdate\\ReleaseBulkUpdate.csproj
+		SccProjectName2 = ReleaseBulkUpdate
+		SccLocalPath2 = ReleaseBulkUpdate
+	EndGlobalSection
+EndGlobal
